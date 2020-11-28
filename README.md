@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**robisetiapermadi/robisetiapermadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in informatics systems, networks, and applications
 
 Here are some ideas to get you started:
 
