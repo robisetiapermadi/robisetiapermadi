@@ -25,4 +25,4 @@ My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in i
 [website]: https://canaya
 [twitter]: https://twitter.com/layunggg
 [instagram]: https://www.instagram.com/robisetiap
-[gmail]: <setiapermadir@gmail.com>
+[gmail]: mailto:setiapermadir@gmail.com
