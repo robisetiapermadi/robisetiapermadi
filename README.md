@@ -5,8 +5,9 @@ My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in i
 - 🌱 I'm currently studying whatever I like🤔. For example python.😄
 
 ### Connect with me:
-[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="robisetiapermadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="robisetiap | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="setiapermadir | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -24,3 +25,4 @@ My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in i
 [website]: https://canaya
 [twitter]: https://twitter.com/layunggg
 [instagram]: https://www.instagram.com/robisetiap
+[gmail]: <setiapermadir@gmail.com>
