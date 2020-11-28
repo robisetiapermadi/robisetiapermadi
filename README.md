@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in informatics systems, networks, and applications. I am interested in Cybersecurity and programming.
 
-📫 You can reach me via email:<setiapermadir@gmail.com>
-🌱 I'm currently studying whatever I like🤔. For example python.😄
+- 📫 You can reach me via email:<setiapermadir@gmail.com>
+- 🌱 I'm currently studying whatever I like🤔. For example python.😄
 
 <!--Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
