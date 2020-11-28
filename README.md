@@ -13,10 +13,13 @@ My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in i
 ---
 
 <a href="https://github.com/robisetiapermadi">
-<img align="center" alt="Robi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=robisetiapermadi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="robisetiapermadi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=robisetiapermadi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/robisetiapermadi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=robisetiapermadi&layout=compact&theme=radical" />
 </a>
+
+![robisetiapermadi's github stats](https://github-readme-stats.vercel.app/api?username=robisetiapermadi&show_icons=true&theme=algolia&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robisetiapermadi&layout=compact&show_icons=true&theme=algolia)
 
 
 <!--Here are some ideas to get you started:
