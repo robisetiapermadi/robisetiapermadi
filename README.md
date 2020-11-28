@@ -4,10 +4,7 @@ My name is Robi Setia Permadi. I am a student at SMKN 1 Cimahi and majoring in i
 📫 You can reach me via email:<setiapermadir@gmail.com>
 🌱 I'm currently studying whatever I like🤔. For example python.😄
 
-<--
-Here are some ideas to get you started:
-
-
+<--Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
