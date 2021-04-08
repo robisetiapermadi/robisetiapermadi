@@ -18,6 +18,9 @@ My name is Robi Setia Permadi. I am a student at Cimahi 1 State Vocational High 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=robisetiapermadi&layout=compact&theme=radical" />
 </a>
 
+[![Robi's GitHub stats](https://github-readme-stats.vercel.app/api?username=robisetiapermadi)](https://github.com/robisetiapermadi)
+
+
 
 
 <!--Here are some ideas to get you started:
