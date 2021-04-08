@@ -12,13 +12,13 @@ My name is Robi Setia Permadi. I am a student at Cimahi 1 State Vocational High 
 
 ---
 
-<a href="https://github.com/robisetiapermadi">
-<img align="center" alt="robisetiapermadi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=robisetiapermadi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&hide=contribs,prs" /></a>
+[![Robi's GitHub stats](https://github-readme-stats.vercel.app/api?username=robisetiapermadi&show_icons=true&theme=dracula)](https://github.com/robisetiapermadi)
+
+
 <a href="https://github.com/robisetiapermadi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=robisetiapermadi&layout=compact&theme=radical" />
 </a>
 
-[![Robi's GitHub stats](https://github-readme-stats.vercel.app/api?username=robisetiapermadi)](https://github.com/robisetiapermadi)
 
 
 
