@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Robi Setia Permadi. I am a student at Cimahi 1 State Vocational High School and majoring in informatics systems, networks, and applications. I am interested in Cybersecurity and programming.
 
-- 🌱 I'm currently studying whatever I like🤔. For example python.😄
-
+<!-- - 🌱 I'm currently studying whatever I like🤔. For example python.😄
+-->
 ### 📫 You can reach me on :
 [<img align="left" alt="robisetiapermadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="robisetiap | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
