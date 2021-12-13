@@ -4,9 +4,10 @@ My name is Robi Setia Permadi. I am a student at Cimahi 1 State Vocational High 
 <!-- - 🌱 I'm currently studying whatever I like🤔. For example python.😄
 -->
 ### 📫 You can reach me on :
-[<img align="left" alt="robisetiapermadi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="robisetiap | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="setiapermadir | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+- [Blog](https://bytesician.me)
+- [Twitter](https://twitter.com/layunggg)
+- [Instagram](https://www.instagram.com/robisetiap)
+- [Gmail](mailto:setiapermadir@gmail.com)
 
 <br />
 
@@ -29,7 +30,3 @@ My name is Robi Setia Permadi. I am a student at Cimahi 1 State Vocational High 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[website]: https://canaya
-[twitter]: https://twitter.com/layunggg
-[instagram]: https://www.instagram.com/robisetiap
-[gmail]: mailto:setiapermadir@gmail.com
